@@ -97,7 +97,7 @@ function renderLicenseSection(license) {
     var licenseSection2 = 
   `
   ## Badges <br>
-  ${licenseBadge} ${licenseLink} <br>
+  ${licenseBadge}${licenseLink} <br>
   `
     
     return licenseSection + licenseSection2
