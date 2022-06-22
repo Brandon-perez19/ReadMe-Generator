@@ -126,7 +126,7 @@ function generateMarkdown(data) {
 
   ## Questions <br>
   ${data.username} <br>
-  github.com//${data.username} <br>
+  github.com/${data.username} <br>
   Any questions please contact ${data.email} <br>
 
   ## How to Contribute <br>
