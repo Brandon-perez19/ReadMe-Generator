@@ -1,36 +1,32 @@
 
-  # README Generator
+  # r
 
-  ##Description <br>
-  To create a quality README.md file for projects and challenges
+  ## Description <br>
+  r
 
-  ##Table Of Contents <br>
+  ## Table Of Contents <br>
   [Installation](#installation) <br>
   [Usage](#usage) <br>
   [Credits](#credits) <br>
   [License](#license)
 
-  ##Installation <br>
-  Cloning the repositroy code, installing npm, installing inquierer
+  ## Installation <br>
+  r
 
-  ##Usage <br>
-  git clone <url> of repo, npm i, npm install inquierer, npm install and then run node index.js. 
+  ## Usage <br>
+  r
 
-  ##Questions <br>
-  Brandon-perez19 <br>
-  github.com//Brandon-perez19 <br>
-  Any questions please contact: brandonperez094@gmail.com
-
-  
-    ##License
-    The Unlicense
-
-    ##Badges
-    [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)(http://unlicense.org/)
+  ## Questions <br>
+  r <br>
+  github.com//r <br>
+  Any questions please contact: r <br> 
+    ## License <br>
+    GNU AGPLv3 <br>
+    ## Badges <br>
+    [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) (https://www.gnu.org/licenses/agpl-3.0) <br>
     
+  ## How to Contribute <br>
+  r
 
-  ##How to Contribute <br>
-  Adding feedback and more details to the README generator
-
-  ##Tests <br>
-  There are no tests available for this project 
+  ## Tests <br>
+  r 
