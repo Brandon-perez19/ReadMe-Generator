@@ -1,7 +1,5 @@
 //been converted to esm package only due to node fetch version
-import { rejects } from 'assert';
-import inquirer from 'inquirer';
-import { resolve } from 'path';
+import inquirer from 'inquirer'
 import fs from 'fs'
 import {generateMarkdown} from './utils/generateMarkdown.js'
 

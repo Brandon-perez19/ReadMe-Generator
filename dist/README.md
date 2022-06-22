@@ -1,8 +1,8 @@
 
-  # README Generator
+  # Readme generator
 
   ## Description <br>
-  To create a quality README.md file for projects and challenges
+  lorem ipsem
 
   ## Table Of Contents <br>
   [Installation](#installation) <br>
@@ -11,25 +11,25 @@
   [License](#license)
 
   ## Installation <br>
-  Cloning the repositroy code, installing npm, installing inquierer
+  lorem ipsem
 
   ## Usage <br>
-  git clone of repo, npm i, npm install inquierer, npm install and then run node index.js.
+  lorem ipsem
 
   ## Questions <br>
-  Brandon-perez19 <br>
-  github.com/Brandon-perez19 <br>
-  Any questions please contact brandonperez094@gmail.com <br>
+  lorem-impsem234567 <br>
+  github.com/lorem-impsem234567 <br>
+  Any questions please contact lorem@hotmail.com <br>
 
   ## How to Contribute <br>
-  Adding feedback and more details to the README generator
+  lorem ipsem
 
   ## Tests <br>
-  There are no tests available for this project
+  lorem ipsem ipsem ipsem
   
   ## License <br>
-  The Unlicense <br>
+  Mozilla Public License 2.0 <br>
   
   ## Badges <br>
-  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) <br>
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) <br>
   
